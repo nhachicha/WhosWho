@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/imgEmployee"
+        android:layout_width="@dimen/profile_img_width"
+        android:layout_height="@dimen/profile_img_height"
+        android:layout_gravity="center"
+        android:src="@drawable/place_holder" />
+
+    <ImageView
+        android:layout_width="@dimen/profile_img_border_width"
+        android:layout_height="@dimen/profile_img_border_height"
+        android:layout_gravity="center"
+        android:src="@drawable/ring" />
+
+</FrameLayout>
