@@ -6,7 +6,7 @@ A demo app to showcase how we can access data from http://theappbusiness.net/peo
 
 Tools
 ----------
-The App use [OkHttp](square.github.io/okhttp/)  
+The App use [OkHttp](http://square.github.io/okhttp/)  
  [Picasso] (http://square.github.io/picasso/)
  and [Htmlcleaner] (http://htmlcleaner.sourceforge.net/) 
  
